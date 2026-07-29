@@ -1,0 +1,68 @@
+{
+  "verificationToken": "01KYNSX6S45HJ775XV4T1GFPFZ",
+  "courseId": "2ad65768-198c-5614-ba63-948602ecc629",
+  "chapterId": "bb222c9d-5a9f-55e8-b690-b591752fdca1",
+  "templateId": "baw_c002_ch04",
+  "variants": [
+    {
+      "id": "README.md",
+      "path": "README.md"
+    },
+    {
+      "id": "charter.md",
+      "path": "charter.md"
+    },
+    {
+      "id": "blueprints/context-checker.md",
+      "path": "blueprints/context-checker.md"
+    },
+    {
+      "id": "prompts/context-check-pack.md",
+      "path": "prompts/context-check-pack.md"
+    },
+    {
+      "id": "METHOD.md",
+      "path": "METHOD.md"
+    },
+    {
+      "id": "VERIFY.md",
+      "path": "VERIFY.md"
+    },
+    {
+      "id": ".ep/provenance.json",
+      "path": ".ep/provenance.json.md"
+    },
+    {
+      "id": "skills/context-advisor.skill.md",
+      "path": "skills/context-advisor.skill.md"
+    },
+    {
+      "id": "data/seeded-claims.md",
+      "path": "data/seeded-claims.md"
+    },
+    {
+      "id": "tests/probe-board.md",
+      "path": "tests/probe-board.md"
+    },
+    {
+      "id": "tests/pass-gate.md",
+      "path": "tests/pass-gate.md"
+    },
+    {
+      "id": "tests/probes.jsonl",
+      "path": "tests/probes.jsonl"
+    },
+    {
+      "id": "tests/run-local.md",
+      "path": "tests/run-local.md"
+    },
+    {
+      "id": "STORY.md",
+      "path": "STORY.md"
+    }
+  ],
+  "totalScore": null,
+  "verdict": null,
+  "compiledAt": "2026-07-29T02:05:26.180Z",
+  "compositionMode": "shipgen"
+}
